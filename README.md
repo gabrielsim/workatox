@@ -6,7 +6,7 @@ Operate Workato faster by ~~crook~~ or by `javascript` hooks
 
 ### Installing
 
-Install this Chrome extension.
+Install this [Chrome extension](https://chrome.google.com/webstore/detail/gebiinkoigahmgapbihbeogggmcjlhbd).
 
 ### Configuration
 
