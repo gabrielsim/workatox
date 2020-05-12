@@ -69,3 +69,15 @@ Show Enhanced Job Report
 *How on earth did that value come about?! Oh, I see now...*
 
 ![JobReport](./img/jobreport.png)
+
+<br>
+
+Export Job Reports
+------
+*Let's move these data into Excel so we can apply some fancy vlookup*
+
+![ExportJobs1](./img/exportjobs1.png)
+
+![ExportJobs2](./img/exportjobs2.png)
+
+<br>
